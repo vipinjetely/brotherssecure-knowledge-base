@@ -1,2 +1,2 @@
-test.pyprint("Hello, GitHub!")
+print("Hello, GitHub!")
 print("Hello, Python!")
