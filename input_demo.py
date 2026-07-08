@@ -1,0 +1,7 @@
+name = input("enter your name: ")
+print("Welcome", name)
+comany = input("enter your company name: ")
+age = int(input("enter your age: "))
+print("welcome", name)
+print("Company name", comany)
+print("your age", age)     
